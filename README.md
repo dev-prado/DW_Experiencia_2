@@ -4,6 +4,6 @@
 
 Chrome Web Browser
 
-## Creado
+## Autor
 
 Alfonso Prado
